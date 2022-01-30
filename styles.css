@@ -1,0 +1,80 @@
+  * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Nunito', sans-serif;
+      font-family: 'Roboto', sans-serif;
+      background-color: #FFFFFF;
+  }
+  
+  .login {
+      font-style: normal;
+      font-weight: 500;
+      font-size: 32px;
+      line-height: 41px;
+      letter-spacing: 0.41px;
+      margin: 128px 277px 12px 16px;
+  }
+  
+  .explication {
+      font-style: normal;
+      font-weight: normal;
+      font-size: 20px;
+      line-height: 26px;
+      color: rgba(0, 0, 0, 0.5);
+      margin: 0 16px 102px 16px;
+      display: block;
+  }
+  
+  input {
+      width: calc(100% - 32px);
+      height: 48px;
+      margin: 0 16px 12px 16px;
+      background-color: #F2F2F7;
+      border: none;
+      border-radius: 6px;
+      padding-left: 14px;
+  }
+  
+  input::placeholder {
+      font-weight: 400;
+      color: #929292;
+  }
+  
+  .forgot-password {
+      display: block;
+      margin: 17px 16px 20px 236px;
+      text-decoration: none;
+      font-size: 16px;
+      line-height: 22px;
+      text-align: center;
+      letter-spacing: -0.41px;
+  }
+  
+  button {
+      display: block;
+      width: 343px;
+      height: 48px;
+      background-color: #0F0F0F;
+      color: #FFFFFF;
+      margin: 0 16px 200px 16px;
+      border-radius: 10px;
+      font-size: 17px;
+      cursor: pointer;
+  }
+  
+  .sign-up {
+      font-style: normal;
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 19px;
+      margin-bottom: 40px;
+      display: block;
+      text-align: center;
+      color: #7D7D7D;
+  }
+  
+  a {
+      cursor: pointer;
+      color: #007AFF;
+  }
