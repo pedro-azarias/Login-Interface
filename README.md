@@ -25,7 +25,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
   <tr>
     <td align="center">
       <a href="#">
-      <img src="./assets/download.jpg" width="100px;" alt="Foto do Pedro no GitHub"/><br>
+      <img src="./download.jpg" width="100px;" alt="Foto do Pedro no GitHub"/><br>
         <sub>
           <b> Pedro Henrique</b>
         </sub>
